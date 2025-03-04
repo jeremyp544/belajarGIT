@@ -11,7 +11,7 @@
 # Daftar Perintah Git
 
 - `git init` → Menginisialisasi repository Git
-- `git clone ` → Meng-clone repository
+- `git clone https://github.com/jeremyp544/belajarGIT.git ` → Meng-clone repository
 - `git status` → Melihat status perubahan
 - `git add <file>` → Menambahkan file ke staging area
 - `git commit -m "Pesan commit"` → Menyimpan perubahan
