@@ -10,4 +10,12 @@
 
 # Daftar Perintah Git
 
-...
+- `git init` → Menginisialisasi repository Git
+- `git clone ` → Meng-clone repository
+- `git status` → Melihat status perubahan
+- `git add <file>` → Menambahkan file ke staging area
+- `git commit -m "Pesan commit"` → Menyimpan perubahan
+- `git branch <nama-branch>` → Membuat branch baru
+- `git checkout <nama-branch>` → Berpindah ke branch
+- `git merge <branch>` → Menggabungkan branch
+- `git push origin <branch>` → Mengunggah ke GitHub
